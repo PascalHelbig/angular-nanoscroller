@@ -15,7 +15,7 @@ Also yiu mus include [nanoScrollerJS](http://jamesflorentino.github.io/nanoScrol
 ```
 
 Also you can use bower:
-`bower install angular-nanoscroller`
+`bower install angular-nanoscroller-13`
 
 Next, make sure to add **`sun.scrollable`** to your Angular app/module requirements:
 ```javascript
